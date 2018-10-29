@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#支付宝转账
+1.修改Base.php中的配置常量信息
+2.index.php中的收款账号根据业务场景进行赋值
+3.可以直接运行测试
